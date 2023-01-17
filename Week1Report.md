@@ -11,7 +11,7 @@ After successful installation you should be able to see a window like this
 
 ![Image](vsCode.png)
 
-2. *Step 2*: **Remotely connecting **
+2.*Step 2*: **Remotely connecting **
 
 In this step we will learn to use the VS Code terminal to remotely connect to a computer using the Internet.
 
@@ -31,7 +31,28 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? *
 Now your terminal is connected to a computer in the CSE basement making your computer the **client computer** and computer in the basement you connected to, the **server**
 
 
-3. *Step 3*: **Trying out some commands!
+3.*Step 3*: **Trying out some commands!
+
+Trying out various commands practically is the best way to get more comfortable with using the terminal
+
+**cd** this command helps to change the directory from the current one to some other directory
+
+**pwd** this command prints the current directory the control is in
+
+**ls** this command prints the list of all the different files in the directory
+
+Here are some commands to try:
+
+* cd ~
+* cd
+* ls -lat
+* ls -a
+* cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
+* ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
+
+  
+To exit the remote server you can type in command **exit**
 
 
 
