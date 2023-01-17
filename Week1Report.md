@@ -11,7 +11,7 @@ After successful installation you should be able to see a window like this
 
 ![Image](vsCode.png)
 
-2.*Step 2*: **Remotely connecting **
+2.*Step 2* : **Remotely connecting**
 
 In this step we will learn to use the VS Code terminal to remotely connect to a computer using the Internet.
 
@@ -32,7 +32,7 @@ Now your terminal is connected to a computer in the CSE basement making your com
 ![Image](remoteAccess.png)
 
 
-3.*Step 3*: **Trying out some commands!
+3.*Step 3* : **Trying out some commands!**
 
 Trying out various commands practically is the best way to get more comfortable with using the terminal
 
