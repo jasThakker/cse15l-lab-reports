@@ -29,6 +29,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])? *
 **Type in yes to continue and then enter the correct password you chose to login**
 
 Now your terminal is connected to a computer in the CSE basement making your computer the **client computer** and computer in the basement you connected to, the **server**
+![Image](remoteAccess.png)
 
 
 3.*Step 3*: **Trying out some commands!
@@ -48,10 +49,9 @@ Here are some commands to try:
 * ls -lat
 * ls -a
 * cp /home/linux/ieng6/cs15lwi23/public/hello.txt ~/
-* cat /home/linux/ieng6/cs15lwi23/public/hello.txt
-* ls <directory> where <directory> is /home/linux/ieng6/cs15lwi23/cs15lwi23abc, where the abc is one of the other group members’ username
+* cat /home/linux/ieng6/cs15lwi23/public/hello.txt\
+![Image](runningCommands.png)
 
-  
 To exit the remote server you can type in command **exit**
 
 
