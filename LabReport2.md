@@ -10,7 +10,7 @@
   ```
   
   
-**The next code block of input below for the same sniipet of the buggy program does not induce a failure
+**The next code block of input below for the same sniipet of the buggy program does not induce a failure**
 
 ```
 @Test
@@ -19,6 +19,7 @@
     assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
   }
   ```
-  **As it can be seen one of the 2 tests fails because one input induced a failure and the other didn't
+  **As it can be seen one of the 2 tests fails because one input induced a failure and the other didn't**
   
+  ![Image](2testonefail.png)
   
