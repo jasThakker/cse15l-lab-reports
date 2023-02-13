@@ -42,7 +42,7 @@ class StringServer {
 }
 ```
 
-![Image](StringServer2.png)
+![Image](addHello.png)
 
 
 
