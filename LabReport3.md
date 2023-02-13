@@ -20,6 +20,7 @@ jasthakker@Jass-MacBook-Pro berlitz2 % find . -iname "bali-history.txt"
 ./Bali-History.txt
 ```
 ```
+Example 2
 jasthakker@Jass-MacBook-Pro written_2 % cd non-fiction
 jasthakker@Jass-MacBook-Pro non-fiction % cd OUP
 jasthakker@Jass-MacBook-Pro OUP % cd Berk
