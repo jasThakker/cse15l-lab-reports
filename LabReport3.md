@@ -11,7 +11,7 @@
 
 
 
-* **Command:find . -iname** 
+**Command:find . -iname** 
 ```
 Example 1
 jasthakker@Jass-MacBook-Pro written_2 % cd travel_guides
