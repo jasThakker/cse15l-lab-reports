@@ -42,7 +42,20 @@ class StringServer {
 }
 ```
 
+
 ![Image](addHello.png)
+In the image above after the Server is started on a port 4003, a string "Hello" is added.
+The void main function takes the port number 4003 from the command line argument in String args[] and starts a server on that port
+The handleRequest function is called to handle the request
+The URI uri variable is updated to the URL of the page that is "http://localhost:4003/add-message?s=Hello"
+The parameters array stoers s=Hello and the "Hello" is added to the empty String str which is displayed.
+
+
+![Image](addHowAreYou.png)
+In the image above a string "How are you" is added to the already started server on port 4003
+The handleRequest function is called to handle the request
+The URI uri variable is updated to the URL of the page that is "http://localhost:4003/add-message?s=How are you"
+The parameters array stoers s=How are you and the "How are you" is added to the String str which is thus updated and then displayed.
 
 
 
@@ -95,3 +108,11 @@ static int[] reversed(int[] arr) {
     return newArray;
   }
 ```
+
+
+
+
+## Part 3
+In week 2 I learnt about GitHub Desktop which is a great tool to clone github repositories locally on your computer so you can use them with the IDE of your choice while also taking care of version control
+I also learnt about the URIHandler interface which helped me make simple webservers, althought the webservers we made were basic, I could definitely see the through the huge scope of this concept
+In week 3 i learnt to set up and use Junit testing which also helps me in my CSE12 class. I also learnt what problems could cause bugs and also learnt to trouble shoot them
