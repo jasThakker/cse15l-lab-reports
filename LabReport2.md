@@ -1,5 +1,5 @@
 ## Part 1
-**Shown below is the code for the StringServer
+**Shown below is the code for the StringServer**
 
 ```
 import java.io.IOException;
@@ -54,7 +54,7 @@ The parameters array stoers s=Hello and the "Hello" is added to the empty String
 ![Image](addHowAreYou.png)
 In the image above a string "How are you" is added to the already started server on port 4003
 The handleRequest function is called to handle the request
-The URI uri variable is updated to the URL of the page that is "http://localhost:4003/add-message?s=How are you"
+The URI uri variable is updated to the URL of the page that is "http://localhost:4003/add-message?s=How-are-you"
 The parameters array stoers s=How are you and the "How are you" is added to the String str which is thus updated and then displayed.
 
 
