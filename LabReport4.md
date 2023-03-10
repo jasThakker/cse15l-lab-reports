@@ -6,12 +6,14 @@
 
 I had set up the ssh key for logging into my ieng6 account so logging to my ieng6 account was fairly easy which I did by writing this piece of code
 `ssh cs15lwi23awm@ieng6.ucsd.edu`
+
 ![](Step4.png)
 
 ## Step 5: Cloning my fork of the repository from my GitHub account
 I had set up the ssh key for my github account as well so I just copied it from github.com where I had my fork of the repository and wrote the command:
 `git clone` in the terminal and then just pasted the copied github ssh key to complete the command as `git clone git@github.com:jasThakker/lab7.git`
 and then pressed <enter> and then the cloning happened.
+
 ![](Step5.png)
 
 ## Step 6: Running the tests and demonstrating that they fail
@@ -48,7 +50,7 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command 
 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 2 up in the history, so I accessed and ran it in the same way.
   
- ![](Step8.png)
+![](Step8.png)
   
 ## Step 9: Commit and push the resulting change to my Github account
   
