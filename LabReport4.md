@@ -14,7 +14,9 @@ I had set up the ssh key for my github account as well so I just copied it from 
 and then pressed <enter> and then the cloning happened.
 
 
-## Step 6:
+## Step 6: Running the tests and demonstrating that they fail
+For this step I cd'd into the lab7 directory that was cloned onto my ieng6 account 
+I wrote this command to change directory `cd lab7`
   
   
 
