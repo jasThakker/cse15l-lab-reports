@@ -13,6 +13,8 @@ I had set up the ssh key for my github account as well so I just copied it from 
 `git clone` in the terminal and then just pasted the copied github ssh key to complete the command as `git clone git@github.com:jasThakker/lab7.git`
 and then pressed <enter> and then the cloning happened.
 
+
+## Step 6:
   
   
 
