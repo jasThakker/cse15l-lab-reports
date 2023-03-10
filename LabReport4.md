@@ -38,7 +38,7 @@ Because the bug was at the bottom of the file I scrolled down to the bottom of t
   
 Then to save the changes made and exit from the nano text editor I pressed the following keys: **<CTRL O> <enter> <CTRL X>
  
-![](Step 7.png) 
+![](Step7.png) 
 
 ## Step 8: Running the tests again after fixing the bug to show that they succeed now.
 
@@ -48,7 +48,7 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command 
 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 2 up in the history, so I accessed and ran it in the same way.
   
- ![](Step 8.png)
+ ![](Step8.png)
   
 ## Step 9: Commit and push the resulting change to my Github account
   
@@ -58,7 +58,7 @@ Then I typed in the command `git commit -m “Updated”` and pressed <enter>
   
 Lastly I pressed the command `git push origin main` and pressed <enter>
 
-![](Step 9.png)
+![](Step9.png)
   
   
 
