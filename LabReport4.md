@@ -6,13 +6,13 @@
 
 I had set up the ssh key for logging into my ieng6 account so logging to my ieng6 account was fairly easy which I did by writing this piece of code
 `ssh cs15lwi23awm@ieng6.ucsd.edu`
-
+![](Step 4.png)
 
 ## Step 5: Cloning my fork of the repository from my GitHub account
 I had set up the ssh key for my github account as well so I just copied it from github.com where I had my fork of the repository and wrote the command:
 `git clone` in the terminal and then just pasted the copied github ssh key to complete the command as `git clone git@github.com:jasThakker/lab7.git`
 and then pressed <enter> and then the cloning happened.
-
+![](Step 5.png)
 
 ## Step 6: Running the tests and demonstrating that they fail
 For this step I cd'd into the lab7 directory that was cloned onto my ieng6 account 
@@ -25,7 +25,8 @@ Running JUnit tests: Keys pressed <up><up><up><up><up><enter> <up><up><up><up><u
 The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 5 up in the search history, so I used up arrow to access it. 
 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 5 up in the history, so I accessed and ran it in the same way.
-  
+ 
+![](Step 6.png)
   
 ##  Step 7: Editing the code to fix the failing tests
  
@@ -36,7 +37,8 @@ Because the bug was at the bottom of the file I scrolled down to the bottom of t
 <up><up><up><up><up><up><up><cmd><right> and fixed the error from index1 += 1; to index2 += 1;
   
 Then to save the changes made and exit from the nano text editor I pressed the following keys: **<CTRL O> <enter> <CTRL X>
-  
+ 
+![](Step 7.png) 
 
 ## Step 8: Running the tests again after fixing the bug to show that they succeed now.
 
@@ -46,7 +48,7 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command 
 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 2 up in the history, so I accessed and ran it in the same way.
   
-  
+ ![](Step 8.png)
   
 ## Step 9: Commit and push the resulting change to my Github account
   
@@ -56,7 +58,7 @@ Then I typed in the command `git commit -m “Updated”` and pressed <enter>
   
 Lastly I pressed the command `git push origin main` and pressed <enter>
 
-
+![](Step 9.png)
   
   
 
