@@ -34,3 +34,9 @@ Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.ru
   
 I typed in `nano L` `<tab>` which autocompleted the command to `nano ListExamples` and then I edited the command to `nano ListExamples.j` `<tab>` and this autocompleted the command to nano ListExamples.java which was the desired command to start editing the java file so I `<enter>`
 
+
+Because the bug was at the bottom of the file I scrolled down to the bottom of the file and used the following key presses to navigate to the error
+  
+`<up><up><up><up><up><up><up><cmd><right>` and fixed the error from `index1 += 1;` to `index2 += 1;`
+
+
