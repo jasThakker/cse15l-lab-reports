@@ -53,6 +53,12 @@ The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command 
 Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 2 up in the history, so I accessed and ran it in the same way.
 
 
+![](Step8.png)
+  
+## Step 9: Commit and push the resulting change to my Github account
+
+
+
 
 
 
