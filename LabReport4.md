@@ -63,7 +63,7 @@ Then I typed in the command `git commit -m “Updated”` and pressed `<enter>`
   
 Lastly I pressed the command `git push origin main` and pressed `<enter>`
 
-![](Step9.png)
+![.](Step9.png)
 
 
 
