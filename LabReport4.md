@@ -12,7 +12,7 @@ I had set up the ssh key for logging into my ieng6 account so logging to my ieng
 ## Step 5: Cloning my fork of the repository from my GitHub account
 I had set up the ssh key for my github account as well so I just copied it from github.com where I had my fork of the repository and wrote the command:
 `git clone` in the terminal and then just pasted the copied github ssh key to complete the command as `git clone git@github.com:jasThakker/lab7.git`
-and then pressed enter and then the cloning happened.
+and then pressed `<enter>` and then the cloning happened.
 
 ![](Step5.png)
 
