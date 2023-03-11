@@ -44,5 +44,15 @@ Then to save the changes made and exit from the nano text editor I pressed the f
 ![](Step7.png) 
 
 
+## Step 8: Running the tests again after fixing the bug to show that they succeed now.
+
+Running JUnit tests: Keys pressed `<up><up><enter>` `<up><up><enter>`
+  
+The `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` command was 2 up in the search history, so I used up arrow to access it. 
+
+Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore` command was 2 up in the history, so I accessed and ran it in the same way.
+
+
+
 
 
