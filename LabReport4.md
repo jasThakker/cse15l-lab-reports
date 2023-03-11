@@ -57,7 +57,7 @@ Then the `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.ru
   
 ## Step 9: Commit and push the resulting change to my Github account
 
-I first typed in the command `git add L` `<tab>` which autocompleted the command to `git add ListExample` and then I edited the command to `git add ListExample.j` and pressed `<tab>` which autocompleted the command to `git add ListExample.java` which is the desired command so I hit `<enter>`
+I first typed in the command `git add L` `<tab>` which autocompleted the command to `git add ListExamples` and then I edited the command to `git add ListExamples.j` and pressed `<tab>` which autocompleted the command to `git add ListExamples.java` which is the desired command so I hit `<enter>`
 
 Then I typed in the command `git commit -m “Updated”` and pressed `<enter>`
   
