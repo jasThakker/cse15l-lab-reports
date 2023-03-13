@@ -14,8 +14,9 @@
 **Command: grep -i "pattern" filename** 
 ```
 Example 1
-jasthakker@Jass-MacBook-Pro written_2 % cd travel_guides
-jasthakker@Jass-MacBook-Pro travel_guides % cd berlitz2
-jasthakker@Jass-MacBook-Pro berlitz2 % find . -iname "bali-history.txt"
-./Bali-History.txt
+find written_2 > findResults.txt
+[cs15lwi23awm@ieng6-202]:docsearch:505$  grep -i ".TXt" findResults.txt |wc
+    224     224   11268
 ```
+
+grep is a powerfull command that
