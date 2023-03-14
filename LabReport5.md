@@ -156,3 +156,5 @@ The -c option when used with the grep command counts and displays the number of 
 In example 1 it displays 224 because the ".txt" extension appears in 224 lines in the findResults.txt file and so it can be used as a replacement for the wc command.
 
 In example 2 if we particularly find of the word "Lucayans" in the berlitz 2 directory the command displays how all text files other than Bahamas_History.txt have 0 occurences of the word and Bahamas_History.txt has two occurences as we had found before
+
+Source: I got some more clarity and information about different grep command line options using Chat GPT [Link](https://chat.openai.com/)
